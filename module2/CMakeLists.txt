@@ -9,5 +9,5 @@ SET(SOURCES module2.c ${COMMON_SRC})
 
 add_compile_definitions(TYPE=module2_t)
 
-add_executable(main ${SOURCES})
+add_executable(main2 ${SOURCES})
 
